@@ -4,7 +4,7 @@
 ResumeIQ is a complete production-ready AI Resume Parser and Candidate Screening System. It processes PDF and DOCX resumes, extracts information via NLP, scores candidates against job requirements, and provides a polished, responsive HR dashboard for recruiters.
 
 ## Features
-- **Smart Parsing**: Automatically extract structured candidate information from PDFs and DOCX files.
+- **Smart Parsing**: Automatically extract structured candidate information from PDF and DOCX files.
 - **OCR Fallback**: When PDF text extraction fails (scanned docs), it uses OCR to extract text.
 - **AI Skill Analysis**: Identifies and normalizes technical and professional skills using Regex and NLP.
 - **ATS Matching Engine**: Scores candidates based on skills, experience, and keywords from the job description.

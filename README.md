@@ -80,6 +80,6 @@ Once the backend is running, you can access the interactive API docs at:
 - ReDoc: `http://localhost:8000/redoc`
 
 ## Future Improvements
-- Add authentication (OAuth/JWT)
+- Add authentication (OAuth)
 - Implement cloud storage (AWS S3) for resumes
 - Expand the LLM abstraction to use remote models (OpenAI, Anthropic) or local LLMs (Ollama)

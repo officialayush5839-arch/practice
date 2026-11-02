@@ -36,6 +36,7 @@ cp .env.example .env
 1. Open terminal and navigate to the backend directory:
 ```bash
 cd backend
+cd bash
 ```
 2. Create and activate a virtual environment:
 ```bash

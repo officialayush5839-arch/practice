@@ -2,7 +2,6 @@
 **AI-Powered Resume Parsing & Candidate Screening**
 
 ResumeIQ is a complete production-ready AI Resume Parser and Candidate Screening System. It processes PDF and DOCX resumes, extracts information via NLP, scores candidates against job requirements, and provides a polished, responsive HR dashboard for recruiters.
-hi one more
 
 
 ## Features
